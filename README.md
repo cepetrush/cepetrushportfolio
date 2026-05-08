@@ -1,6 +1,4 @@
-# cepetrushportfolio
-
-## Projects
+# Projects
 ### sql data warehouse project
 - Description
 - [Github Repository](https://github.com/cepetrush/sql-data-warehouse-project.git)
