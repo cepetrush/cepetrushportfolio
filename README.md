@@ -5,7 +5,7 @@
 
 ### CS499 capstone project
 - This project creates a full stack application project that integrates software engineering and design principles with data structures and algorithms and databases to build a complete, functional application.
-- [Github Repository](https://github.com/cepetrush/
+- [Github Repository](https://github.com/cepetrush/CS499_final_project.git)
 
 
 # Education
