@@ -3,6 +3,10 @@
 - This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 - [Github Repository](https://github.com/cepetrush/sql-data-warehouse-project.git)
 
+### CS499 capstone project
+- This project creates a full stack application project that integrates software engineering and design principles with data structures and algorithms and databases to build a complete, functional application.
+- [Github Repository](https://github.com/cepetrush/
+
 
 # Education
 ### Southern New Hampshire University
