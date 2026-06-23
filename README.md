@@ -1,6 +1,6 @@
 # Projects
 ### sql data warehouse project
-- This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
+- This project demonstrates a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights.
 - [Github Repository](https://github.com/cepetrush/sql-data-warehouse-project.git)
 
 ### capstone project
